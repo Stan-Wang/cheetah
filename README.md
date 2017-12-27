@@ -11,7 +11,7 @@
 1. 项目克隆:
 
     ```terminal
-      $ git clone git@e.coding.net:minsheng/eagle.git  
+      $ git clone git@github.com:Stan-Wang/cheetah.git  
     ```
 2. 安装gem包和前端库及依赖库
 
